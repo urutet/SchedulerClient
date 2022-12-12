@@ -1,0 +1,9 @@
+.containter {
+    width: 500px;
+    margin: 0, auto;
+}
+
+table a {
+    color: inherit;
+    text-decoration: none;
+}
